@@ -1,0 +1,31 @@
+{
+  "variant": "professional",
+  "primary": "#2D2D2D",
+  "appearance": "dark",
+  "radius": 0.5,
+  "themes": {
+    "light": {
+      "primary": "#2D2D2D"
+    },
+    "dark": {
+      "primary": "#E0E0E0"
+    },
+    "red": {
+      "primary": "#FF4136",
+      "background": "#FFF5F5",
+      "foreground": "#7A1921",
+      "card": "#FFFFFF",
+      "card-foreground": "#1A1A1A",
+      "popover": "#FFFFFF",
+      "popover-foreground": "#1A1A1A",
+      "primary-foreground": "#FFFFFF",
+      "secondary": "#FFE5E5",
+      "secondary-foreground": "#7A1921",
+      "muted": "#FFE5E5",
+      "muted-foreground": "#7A1921",
+      "accent": "#FFE5E5",
+      "accent-foreground": "#7A1921",
+      "border": "#FFD5D5"
+    }
+  }
+}
